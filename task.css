@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:ital,wght@0,100;1,100&display=swap');
+
+body{
+    background-color: burlywood;
+}
+
+.img{
+    margin-left: 28rem;
+}
+
+.ingredients{
+    border: 1px solid red;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 30px;
+   
+}
+
+.ingredients-table{
+    border: 1px solid green;
+    margin-left: 20rem;
+   
+
+}
+
+.Ingredient{
+    font-family: 'Roboto', sans-serif;
+}
+
+.Amount{
+   font-family: 'Roboto', sans-serif;
+}
+#red{
+    color: red;
+}
+#blue
+{
+    color: blue;
+}
+#green{
+    color: green;
+}
+.Instructions{
+    border: 1px solid brown;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.Instructions-list{
+    border: 1px solid blue;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.footer{
+    color: blueviolet;
+    margin-left: 40rem;
+}
